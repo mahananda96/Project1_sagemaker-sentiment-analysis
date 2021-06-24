@@ -1,4 +1,4 @@
-# SageMaker Deployment Project
+# SageMaker Sentiment Deployment Project
 Udacity - Machine Learning Engineer Nnanodegree Program
 
 # Project Overview
